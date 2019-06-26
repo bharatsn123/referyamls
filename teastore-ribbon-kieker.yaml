@@ -42,7 +42,7 @@ spec:
     spec:
       containers:
       - name: teastore-registry
-        image: docker.io/bharatsn/teastore-registry:latest
+        image: docker.io/bharatsn1/teastore-registry:latest
         ports:
         - containerPort: 8080
         env:
@@ -76,7 +76,7 @@ spec:
     spec:
       containers:
       - name: teastore-persistence
-        image: docker.io/bharatsn/teastore-persistence:latest
+        image: docker.io/bharatsn1/teastore-persistence:latest
         ports:
         - containerPort: 8080
         env:
@@ -119,7 +119,7 @@ spec:
     spec:
       containers:
       - name: teastore-auth
-        image: docker.io/bharatsn/teastore-auth:latest
+        image: docker.io/bharatsn1/teastore-auth:latest
         ports:
         - containerPort: 8080
         env:
@@ -157,7 +157,7 @@ spec:
     spec:
       containers:
       - name: teastore-image
-        image: docker.io/bharatsn/teastore-image:latest
+        image: docker.io/bharatsn1/teastore-image:latest
         ports:
         - containerPort: 8080
         env:
@@ -195,7 +195,7 @@ spec:
     spec:
       containers:
       - name: teastore-recommender
-        image: docker.io/bharatsn/teastore-recommender:latest
+        image: docker.io/bharatsn1/teastore-recommender:latest
         ports:
         - containerPort: 8080
         env:
@@ -233,7 +233,7 @@ spec:
     spec:
       containers:
       - name: teastore-webui
-        image: docker.io/bharatsn/teastore-webui:latest
+        image: docker.io/bharatsn1/teastore-webui:latest
         ports:
         - containerPort: 8080
         env:
