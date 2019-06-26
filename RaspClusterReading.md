@@ -32,18 +32,18 @@ Read the documentation and check pictures on how it is working with respect to g
 
 ## Recursive Steps (Repetative steps)
 
-### Step 1.1 - Run ```free``` command on the terminal 
+### Step 1.1 - Run ```free``` command on the terminal on Master Node (pirate@10.100.38.36)
 
 Run ```free``` command on the terminal and copy the values to the Google Sheets here
 Append to the existing entries:  [Open Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgwWCe4o9JmoaqReuN1xQ_Hx23_0sMBC1V7B9VLLjZ3QssRqgh_xU1eJ5_enSUEEOrHxrnj5C4qCEz/pubhtml)
 
-### Step 1.2 - Refresh the DashBoard Page to send requests mannually (Use Browser)
+### Step 1.2 - Refresh the DashBoard Page to send requests mannually and note down execution time (Use Browser)
 
 Use ```Ctrl + R``` on your keyboard or the <Refresh Symbol> near the address bar to refresh the Dashboard.
 
 Click on the <Load Time Extension Symbol> on the right side of the address bar and copy the ```Load Time``` reading into the Google Sheets.
 
-### Step 1.3 - Check if the requests were sent successfully and note the time in Excel sheet as ```Request Ending time```
+### Step 1.3 - Check if the requests were sent successfully (terminal) 
 
 Run the following command and check if the requests were sent successfully 
 ```
