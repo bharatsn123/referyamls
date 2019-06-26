@@ -35,7 +35,7 @@ Read the documentation and check pictures on how it is working with respect to g
 ### Step 1.1 - Run ```free``` command on the terminal on Master Node (pirate@10.100.38.36)
 
 Run ```free``` command on the terminal and copy the values to the Google Sheets here
-Append to the existing entries:  [Open Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgwWCe4o9JmoaqReuN1xQ_Hx23_0sMBC1V7B9VLLjZ3QssRqgh_xU1eJ5_enSUEEOrHxrnj5C4qCEz/pubhtml)
+Append to the existing entries:  [Open Google Sheets](https://docs.google.com/spreadsheets/d/1BBxSKgURed4FGozgqnRRwXNfxaYqSdMDG7c3oPr1SPM/edit?usp=sharing)
 
 ### Step 1.2 - Refresh the DashBoard Page to send requests mannually and note down execution time (Use Browser)
 
