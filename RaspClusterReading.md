@@ -50,7 +50,7 @@ Run the following command and check if the requests were sent successfully
 kubectl logs kubernetes-dashboard-5fd66ff4f7-ljlrg -n kube-system
 ```
 
-if you can see the requests being sent at the end of the log then.... good for you! If not, redo it and remove the free and execution time you noted down in this iteration.
+if you can see the requests being sent at the end of the log then.... good for you! If not, redo it and remove the free and execution time you noted down in this iteration. After first couple of iterations, this checking step can be avoided after it becomes obvious that the cluster is in a good state.
 
 Redo the steps ```step 1.1``` to ```step 1.3``` until you get tired. :)
 
